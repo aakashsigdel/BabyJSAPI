@@ -1,0 +1,17 @@
+{
+  "name": "babyjs-api",
+  "version": "1.0.0",
+  "description": "Comment API for babyJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Aakash Sigdel",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
